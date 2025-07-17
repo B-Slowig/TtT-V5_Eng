@@ -17,5 +17,8 @@
 to be determined 
 
 ## Source Material 
-[] put the titles here 
+- German Version 
+https://doi.org/10.5281/zenodo.10122153
+- English Material:
+https://doi.org/10.5281/zenodo.13927614
 [] create a source folder
