@@ -1,0 +1,1 @@
+# END OF THE FIRST DAY
