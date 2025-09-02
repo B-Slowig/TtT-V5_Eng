@@ -162,4 +162,16 @@ https://www.youtube.com/watch?v=D2xCisd8ZWg (last access 17.07.2024)>
  [comment]: < Active:
  Lecture: Aspects of RDM are explained>
 
- 
+ -------------------------------------
+
+
+ # Test and Show 
+ for Classroom functions 
+
+ Can you answer this quiz? 
+
+[(X)] yes
+[( )] no
+
+Give me some suggestions here! 
+[[___ ___ ___]] 
