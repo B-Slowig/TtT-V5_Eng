@@ -9,7 +9,7 @@
  ----------------
  ##  What research data do you work with?
 
-![alt] (images/U4-ex1.png)
+![alt] (TtT-Test/images/U4-ex1.png)
 ![alt] (/images/U4-ex2.png)
 ![alt] (/images/U4-ex3.png)
 ![alt] (/images/U4-ex4.png)
