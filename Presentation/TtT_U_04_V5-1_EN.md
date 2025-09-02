@@ -9,12 +9,12 @@
  ----------------
  ##  What research data do you work with?
 
-![alt] (TtT-Test/images/U4-ex1.png)
-![alt] (/images/U4-ex2.png)
-![alt] (/images/U4-ex3.png)
-![alt] (/images/U4-ex4.png)
-![alt] (/images/U4-ex5.png)
-![alt] (/images/U4-ex6.png)
+![alt](images/U4-ex1.png)
+![alt](images/U4-ex2.png)
+![alt](images/U4-ex3.png)
+![alt](images/U4-ex4.png)
+![alt](images/U4-ex5.png)
+![alt](images/U4-ex6.png)
 
 Source: pixabay.com. 
 This work is licensed under the
