@@ -9,12 +9,12 @@
  ----------------
  ##  What research data do you work with?
 
-![alt](images/U4-ex1.png)
-![alt](images/U4-ex2.png)
-![alt](images/U4-ex3.png)
-![alt](images/U4-ex4.png)
-![alt](images/U4-ex5.png)
-![alt](images/U4-ex6.png)
+![alt](Presentation/U4-ex1.png)
+![alt](Presentation/U4-ex2.png)
+![alt](Presentation/U4-ex3.png)
+![alt](Presentation/U4-ex4.png)
+![alt](Presentation/U4-ex5.png)
+![alt](Presentation/U4-ex6.png)
 
 Source: pixabay.com. 
 This work is licensed under the
@@ -87,7 +87,7 @@ issues --->
 # Data lifecycle 
 ##  Research data goes through phases
 - Example 1: 
-![alt] (/images/U4-life.ex1.png)
+![alt] (/Presentation/U4-life.ex1.png)
 
 <!--
 @@comment: 
@@ -95,11 +95,11 @@ Active:
  Lecture: Examples of research data lifecycles --->
 
  - Example 2: 
- ![alt] (/images/U4-life.ex2.png)
+ ![alt] (/Presentation/U4-life.ex2.png)
 
  ------------------
   # Coffee Break 
-![alt] (/images/coffee.break.png)
+![alt] (/Presentation/coffee.break.png)
 
 <!--
 @@comment:
@@ -162,7 +162,7 @@ https://www.youtube.com/watch?v=D2xCisd8ZWg (last access 17.07.2024) --->
 
  ---------------
  # THE FAIR-PRINCIPLES
-![alt] (/images/FAIR-Principles.png)
+![alt] (/Presentation/FAIR-Principles.png)
 
 <!--
 @@comment:
