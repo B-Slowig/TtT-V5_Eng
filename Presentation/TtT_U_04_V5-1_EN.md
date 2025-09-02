@@ -1,13 +1,15 @@
 # DIGITAL RESEARCH DATA
 
-[//]: < Active:
+<!--
+@@comment:
+ Active:
  Task:- "Which RD are you working with?"- Please respond with keywords.- Each person who responds independently calls out the next person to 
- receive the virtual ball and in turn responds>
+ receive the virtual ball and in turn responds --->
 
  ----------------
  ##  What research data do you work with?
 
-![alt] (/images/U4-ex1.png)
+![alt] (images/U4-ex1.png)
 ![alt] (/images/U4-ex2.png)
 ![alt] (/images/U4-ex3.png)
 ![alt] (/images/U4-ex4.png)
