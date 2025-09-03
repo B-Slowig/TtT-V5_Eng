@@ -27,7 +27,12 @@ Alternatively
 3. Export it to GitHub gist, Nostr, or share it directly as a data-URI (only within the URL).
 
 ### Within the workshop
-[] tbd 
+1. for lecturers:
+- use as slides
+- open a classroom
+2. for listeners:
+- use as presentation
+- join the classroom to participate
 
 ## Source Material 
 - German Version 
