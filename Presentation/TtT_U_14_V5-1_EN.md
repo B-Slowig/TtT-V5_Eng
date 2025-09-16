@@ -42,3 +42,17 @@ Active:
  Moderation:- "Are there any questions that arose from yesterday? Were there any terms 
 you could not classify in pairs?"- Let the group primarily answer questions
 
+## WORKSHOP MAP
+! image here 
+
+comment: 
+Active:
+ Lecture:- Go through the original workshop map- Review the workshop map screenshot with wishes/concerns from 
+participants on the first day- Introduce the agenda for the day
+ Passive:
+ * Prepare slide "Workshop Map with Wishes and Concerns from Participants" 
+from Day 1: Insert a screenshot from the Day 1 slide "Participants' Wishes and 
+Concerns"
+
+## TODAY’S SCHEDULE
+!images here 
