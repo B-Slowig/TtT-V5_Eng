@@ -244,3 +244,24 @@ comment:
  Break
  Passive:
  * Post time for end of break in chat
+
+ ## PRO & CONTRA PUBLICATION
+ ### Statement Slam
+ Pros and cons of publishing research data: 
+• How do I feel about the thesis I received?
+
+comment: 
+ Active:
+ Task:- Receive individual theses for a later task via private chat- Please save and keep them secret- Immediately, all have 4 minutes to prepare arguments for their thesis- Each thesis should later be presented in a maximum of 60 
+
+  Active:
+ Participants: think about bullet points for the received thesis
+
+  Active:
+ Moderation:- "Everyone now has 60 seconds to present their arguments for or against the 
+theses."- After each presentation, a discussion follows (4/4)
+
+ Active:
+ Moderation:- "Now, the group has time to counter-argue. Play "AdvocatusDiaboli" and try 
+to challenge the presenting person. Can you persuade them?"- Maximum 90 seconds for discussion
+
