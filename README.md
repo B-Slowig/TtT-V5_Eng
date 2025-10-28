@@ -1,7 +1,10 @@
 # READ ME 
 
 ## How to find everything 
-[] explain the general structure
+Folders are named according to who should be handling the files (presenting vs. participating). 
+The presentation itself is divided into chapters, hence sub-folders. 
+The material is distributed according to where it belongs within the workshop and to be handled by whom. 
+An introduction to this format (repository & usage for the worksop) can be found under the presenter's material.
 
 ## How to present the workshop 
 ### The presentation 
@@ -31,15 +34,10 @@ Alternatively
 2. for listeners:
 - use as presentation
 - join the classroom to participate
+- use the material either given from the lecturer or from the respective folder
 
 ## Source Material 
 - German Version 
 https://doi.org/10.5281/zenodo.10122153
 - English Material:
 https://doi.org/10.5281/zenodo.13927614
-
-
-## current To Do List: 
-[] add all pictures 
-[] add script for the intro 
-[] Drehbuch & derivatives
