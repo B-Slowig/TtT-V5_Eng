@@ -1,0 +1,30 @@
+Intro zum Workshop und Repo
+Vor der Durchfürung
+Einladungen ggf. neu verschicken 
+Playground öffnen 
+Haupt-Repo öffnen
+
+Git & GitHub
+Einführung github und Struktur, inkl. Fragen
+Was ist das?
+siehe README
+Wie benutzen wir das?
+Absprachen im Team
+Playground um Sachen ausprobieren
+	- Spielraum für Tests for wie Dateien ablegen, Ordner, etc.
+	- durch Dateien, Commits, etc. durchlaufen (Verweis: gerne in eigener Zeit einmal 	durchprobieren, wie was gut funktioniert)
+	! edit in place vs web editor
+eigentliches Repo für den Workshop
+Liascript
+Einführung Markdown und Liascript (ggf. kurzer Hands-on-Part)
+Präsentation mit Liascript (inkl. Hands-on-Part)
+Live Editor
+öffnen über Browser
+	- Link im Chat teilen (https://liascript.github.io/LiveEditor/)
+Beispiele mit MD-Dateien (eigene aus dem Playground nehmen)
+Liascript
+Infos siehe README
+GitHub als Host, Lia zum präsentieren
+	(https://liascript.github.io/)
+	- wie geht das? 
+	- Aufbau MD-Datei zu Präsentation 
