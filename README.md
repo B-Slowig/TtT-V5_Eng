@@ -41,4 +41,5 @@ https://doi.org/10.5281/zenodo.13927614
 
 ## current To Do List: 
 [] add all pictures 
-[] implement classroom functions
+[] add script for the intro 
+[] Drehbuch & derivatives
